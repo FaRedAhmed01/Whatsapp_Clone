@@ -1,6 +1,6 @@
 # whatsapp_clone
 
-An Bmi Calculator
+An UI clone of Whats app 
 
 ## Getting Started
 
